@@ -1,0 +1,12 @@
+# 视频数据集处理效能比较脚本依赖包
+torch>=1.12.0
+torchvision>=0.13.0
+ray[data]>=2.0.0
+datasets>=2.0.0
+transformers>=4.20.0
+opencv-python>=4.6.0
+numpy>=1.21.0
+pandas>=1.4.0
+psutil>=5.9.0
+Pillow>=9.0.0
+tqdm>=4.64.0 
